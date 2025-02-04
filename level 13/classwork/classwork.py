@@ -6,6 +6,5 @@
 while 50 == 50 :
     print('Goa')
 
-while 50 - 0 :
-    print(50-0)
+
 
