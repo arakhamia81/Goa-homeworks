@@ -1,3 +1,5 @@
+#print ბრძანება 40-ჯერ გამოიყენეთ და დაბეჭდეთ თქვენთვის სასურველი ინფორმაცია
+
 print("hello world!")
 
 print("my name is David")
@@ -81,6 +83,8 @@ print("Georgia has Fantastic History")
 print("გოა")
 
 print("Done my homework")
+#გააკეთეთ 10 მაგალითი ყველა ოპერატორზე(+,-,*,/,//)
+
 #მიმატება
 print(10 + 4)
 print(20 + 11)

@@ -1,6 +1,6 @@
 def main():
-    simple = simple_to_float (input(simple 50))
-    sample = sample_to_float (output(simple 100))
+    simple = ["simple_to_float"]
+    sample = ["sample_to_float"]
 
 import webbrowser
 search = input("search")
